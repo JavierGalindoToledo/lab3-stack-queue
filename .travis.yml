@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../Lab-3
+  - cmake ../lab3-stack-queue
   - make -j
   - ./test/test_TSteck
   
