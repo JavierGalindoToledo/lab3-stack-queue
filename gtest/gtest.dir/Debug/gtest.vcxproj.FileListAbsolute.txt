@@ -1,0 +1,2 @@
+D:\University\Programming\mp2-lab1-set\lib\Debug\gtest.pdb
+D:\University\Programming\mp2-lab1-set\gtest\gtest.dir\Debug\gtest.pdb
