@@ -8,7 +8,7 @@ before_script:
 script:
   - cmake ../lab3-stack-queue
   - make -j
-  - ./test/test_TSteck
+  - ./test/test_Tstack
   
 notifications:
   email: false
